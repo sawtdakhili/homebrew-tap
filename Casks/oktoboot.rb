@@ -1,6 +1,6 @@
 cask "oktoboot" do
-  version "0.1.0"
-  sha256 "25cea9e6678d7d7f158c91024b3619abcc1bd942cf33e36001de5df9a92f1f1b"
+  version "0.1.1"
+  sha256 "5798c65859291a2aafe63900719ab0ad0bcfc01b69ce5318644f3579ff11e10b"
 
   url "https://github.com/sawtdakhili/oktoboot/releases/download/v#{version}/oktoboot-#{version}-macos-arm64.zip"
   name "oktoboot"
