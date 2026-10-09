@@ -8,7 +8,7 @@ cask "oktoboot" do
   homepage "https://github.com/sawtdakhili/oktoboot"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "oktoboot.app"
 
